@@ -1,1 +1,2 @@
-# udacity_proj1
+# This is project #1 "Build My World"
+From the UDACITY Robotics Nanodegree
